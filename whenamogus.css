@@ -1,0 +1,15 @@
+/*i suck at css*/
+body
+{
+    background-color: rgb(56, 52, 52);
+}
+h1 {
+    font-family: "Impact";
+    color: green;
+    text-align: center;
+    font-size: 99pt;
+}
+button {
+    font-size: small;
+    padding: 2vmin
+}
